@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="bg-blue-600 text-white p-3 shadow-md">
       <img
-        src="https://images.unsplash.com/photo-1627300000000-3b3b3b3b3b3b"
+        src=""
         alt=""
         class="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center"
       ></img>

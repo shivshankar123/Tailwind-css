@@ -1,6 +1,8 @@
+import React from "react";
+
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-white py-6 mt-8">
+    <footer className="bg-gray-800 text-white py-6 mt-auto">
       <div className="container mx-auto flex flex-col items-center">
         <p className="text-center text-sm mb-4 animate-fadeIn">
           © 2024 My Website. All rights reserved.
